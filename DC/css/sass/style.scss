@@ -396,11 +396,12 @@ img {
   background-image: url(../../img/mv.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 80vh;
+  height: 60vh;
   position: relative;
 
     @include media(sm) {
       background-position: right;
+      height: 80vh;
     }
 
   &__copy {
