@@ -363,6 +363,7 @@ img {
 @media (max-width: 414px) {
   .mv {
     background-position: right;
+    height: 60vh;
   }
 }
 
@@ -374,7 +375,7 @@ img {
 
 @media (max-width: 414px) {
   .mv__copy {
-    top: 0;
+    top: 14%;
     left: 3%;
   }
 }
