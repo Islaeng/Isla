@@ -396,7 +396,7 @@ img {
   background-image: url(../../img/mv.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 60vh;
+  height: 80vh;
   position: relative;
 
     @include media(sm) {
@@ -409,7 +409,7 @@ img {
     left: 7%;
 
       @include media(sm) {
-        top: 0;
+        top: 14%;
         left: 3%;
       }
   }
